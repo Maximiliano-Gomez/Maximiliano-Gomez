@@ -4,12 +4,12 @@
 </h1>
 <p>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900"/>
-</p><br />
+</p>
 
-<p align='center'>
+<h3 align='center'>
     Software Developer  .NET | SQL | React | Azure | <br />
   📍 from Buenos Aires, Argentina.
-</p><br /><br /><br />
+</h3><br /><br />
 
 
 

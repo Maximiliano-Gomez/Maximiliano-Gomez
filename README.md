@@ -3,7 +3,7 @@
   Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Maximiliano 👨‍💻
 </h1>
 <p>
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900" />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900"/>
 </p><br />
 
 <p align='center'>
@@ -46,7 +46,7 @@
 
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resume CLICK</summary>
   <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning cloud architecture
